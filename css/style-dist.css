@@ -175,6 +175,7 @@ h2{
 	position: relative;
 	padding: 0 0 85% 0;
 	overflow: hidden;
+	border-radius: 10px;
 }
 .gallery__item img{
 	position: absolute;
